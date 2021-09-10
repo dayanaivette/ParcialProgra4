@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
  private fun Ejercicio3(){
     println("1 en 1")
     for(x in 0..10) {
-        println(valor)
+        println(x)
     }
     println("2 en 2")
     for(x in 0..20 step 2){  println(x)
